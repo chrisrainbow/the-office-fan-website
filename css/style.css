@@ -225,7 +225,7 @@ footer small a {
     right: 0;
     bottom: 0;
     left: 0;
-    background-image: url('img/hero-background.jpeg');
+    background-image: url('https://chrisrainbow.github.io/the-office-fan-website/img/hero-background.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     filter: brightness(30%);
@@ -239,7 +239,7 @@ footer small a {
     right: 0;
     bottom: 0;
     left: 0;
-    background-image: url('img/plot-hero-background.jpeg');
+    background-image: url('https://chrisrainbow.github.io/the-office-fan-website/img/plot-hero-background.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     filter: brightness(30%);
@@ -253,7 +253,7 @@ footer small a {
     right: 0;
     bottom: 0;
     left: 0;
-    background-image: url('img/actors-background.jpeg');
+    background-image: url('https://chrisrainbow.github.io/the-office-fan-website/img/actors-background.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     filter: brightness(40%);
@@ -267,7 +267,7 @@ footer small a {
     right: 0;
     bottom: 0;
     left: 0;
-    background-image: url('img/memorable-characters.jpeg');
+    background-image: url('https://chrisrainbow.github.io/the-office-fan-website/img/memorable-characters.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     filter: brightness(30%);
@@ -502,7 +502,7 @@ footer small a {
 
 .icon-block-section-footer .icon-block-1:before {
     content: "";
-    background: url('img/icons/script.svg') no-repeat;
+    background: url('https://chrisrainbow.github.io/the-office-fan-website/img/icons/script.svg') no-repeat;
     background-size: cover;
     width: 50px;
     height: 50px;
@@ -513,7 +513,7 @@ footer small a {
 
 .icon-block-section-footer .icon-block-2:before {
     content: "";
-    background: url('img/icons/award.svg') no-repeat;
+    background: url('https://chrisrainbow.github.io/the-office-fan-website/img/icons/award.svg') no-repeat;
     background-size: cover;
     width: 50px;
     height: 50px;
@@ -524,7 +524,7 @@ footer small a {
 
 .icon-block-section-footer .icon-block-3:before {
     content: "";
-    background: url('img/icons/behind-the-scenes.svg') no-repeat;
+    background: url('https://chrisrainbow.github.io/the-office-fan-website/img/icons/behind-the-scenes.svg') no-repeat;
     background-size: cover;
     width: 50px;
     height: 50px;
